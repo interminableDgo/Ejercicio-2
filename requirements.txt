@@ -1,0 +1,7 @@
+flask
+google-cloud-storage
+flask-mysqldb
+flasgger
+dicttoxml
+python-dotenv
+PyMySQL
